@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajayyaday4522/LeetCode/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ajayyaday4522/LeetCode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ajayyaday4522/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
