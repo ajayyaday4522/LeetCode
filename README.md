@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ajayyaday4522/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -45,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajayyaday4522/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ajayyaday4522/LeetCode/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajayyaday4522/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ajayyaday4522/LeetCode/tree/master/0053-maximum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
