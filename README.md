@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajayyaday4522/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0143-reorder-list) |
+| [0901-online-stock-span](https://github.com/ajayyaday4522/LeetCode/tree/master/0901-online-stock-span) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajayyaday4522/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/ajayyaday4522/LeetCode/tree/master/0901-online-stock-span) |
 ## String
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ajayyaday4522/LeetCode/tree/master/0796-rotate-string) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ajayyaday4522/LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ajayyaday4522/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
