@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajayyaday4522/LeetCode/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/ajayyaday4522/LeetCode/tree/master/0796-rotate-string) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ajayyaday4522/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## String Matching
 |  |
 | ------- |
