@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ajayyaday4522/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0148-sort-list) |
+| [0633-sum-of-square-numbers](https://github.com/ajayyaday4522/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ajayyaday4522/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -107,9 +108,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajayyaday4522/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/ajayyaday4522/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/ajayyaday4522/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajayyaday4522/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
