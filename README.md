@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ajayyaday4522/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/ajayyaday4522/LeetCode/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/ajayyaday4522/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ajayyaday4522/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ajayyaday4522/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/ajayyaday4522/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajayyaday4522/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/ajayyaday4522/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ajayyaday4522/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ajayyaday4522/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
