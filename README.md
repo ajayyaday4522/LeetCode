@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/ajayyaday4522/LeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/ajayyaday4522/LeetCode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/ajayyaday4522/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ajayyaday4522/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/ajayyaday4522/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajayyaday4522/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Merge Sort
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ajayyaday4522/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajayyaday4522/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/ajayyaday4522/LeetCode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/ajayyaday4522/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ajayyaday4522/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ajayyaday4522/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajayyaday4522/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajayyaday4522/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ajayyaday4522/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
