@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0148-sort-list) |
+| [0274-h-index](https://github.com/ajayyaday4522/LeetCode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/ajayyaday4522/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajayyaday4522/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Merge Sort
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ajayyaday4522/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/ajayyaday4522/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajayyaday4522/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0274-h-index](https://github.com/ajayyaday4522/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ajayyaday4522/LeetCode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ajayyaday4522/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ajayyaday4522/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ajayyaday4522/LeetCode/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ajayyaday4522/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
