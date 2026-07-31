@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ajayyaday4522/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ajayyaday4522/LeetCode/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/ajayyaday4522/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/ajayyaday4522/LeetCode/tree/master/0796-rotate-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ajayyaday4522/LeetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## String Matching
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ajayyaday4522/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ajayyaday4522/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ajayyaday4522/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ajayyaday4522/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ajayyaday4522/LeetCode/tree/master/0274-h-index) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ajayyaday4522/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
