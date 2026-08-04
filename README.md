@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajayyaday4522/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ajayyaday4522/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ajayyaday4522/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ajayyaday4522/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ajayyaday4522/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0143-reorder-list) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ajayyaday4522/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ajayyaday4522/LeetCode/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/ajayyaday4522/LeetCode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/ajayyaday4522/LeetCode/tree/master/0455-assign-cookies) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ajayyaday4522/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ajayyaday4522/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ajayyaday4522/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ajayyaday4522/LeetCode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ajayyaday4522/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/ajayyaday4522/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ajayyaday4522/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ajayyaday4522/LeetCode/tree/master/0412-fizz-buzz) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ajayyaday4522/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ajayyaday4522/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
