@@ -104,10 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ajayyaday4522/LeetCode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/ajayyaday4522/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ajayyaday4522/LeetCode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/ajayyaday4522/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ajayyaday4522/LeetCode/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/ajayyaday4522/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
